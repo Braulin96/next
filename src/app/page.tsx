@@ -4,7 +4,7 @@ const Home = () => {
         <p className="text-red-300 bg-green-400">hello</p>
 
     </div>
-    <div className="bg-blue-800 rounded-2xl px-10 w-10 aspect-square">
+    <div className="text-blue-500 rounded-2xl px-10 w-10 aspect-square">
         container 2
 
     </div>
